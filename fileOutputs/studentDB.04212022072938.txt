@@ -1,0 +1,2 @@
+Student ID 		 First Name 		 Last Name 		 Grade Level 		 Section
+2022-0001 		 Mary 		 Russell 		 10 		 1
